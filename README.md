@@ -16,7 +16,7 @@
 3. **Entrega e Qualidade**
    - [3 - Entrega e qualidade/3.1 - Politica_Branch.md](3%20-%20Entrega%20e%20qualidade/3.1%20-%20Politica_Branch.md)
    - [3 - Entrega e qualidade/3.2 - Devops_Epicos_Tarefas_Bugs.md](3%20-%20Entrega%20e%20qualidade/3.2%20-%20Devops_Epicos_Tarefas_Bugs.md)
-   - [3 - Entrega e qualidade/3.3 - Distribuição_Horas_QA_N1.md](3%20-%20Entrega%20e%20qualidade/3.3%20-%20Distribui%C3%A7%C3%A3o_Horas_QA_N1.md)
+   - [3 - Entrega e qualidade/3.4 - Distribuição_Horas_QA_N1.md](3%20-%20Entrega%20e%20qualidade/3.4%20-%20Distribui%C3%A7%C3%A3o_Horas_QA_N1.md)
 
 ---
 
